@@ -1,0 +1,12 @@
+.idea
+target/
+*.iml
+.classpath
+.project
+.settings
+.checkstyle
+.DS_Store
+LOG_PATH_IS_UNDEFINED
+/target-eclipse/
+deploy-test.sh
+vnc
